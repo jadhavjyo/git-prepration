@@ -1,0 +1,2 @@
+ thisis stash file
+ this is file now to stashing
